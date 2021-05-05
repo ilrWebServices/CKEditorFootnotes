@@ -1,0 +1,15 @@
+{
+  "name": "ilrwebservices/footnotes",
+  "description": "CKEditor 4 footnotes plugin",
+  "type": "drupal-library",
+  "keywords": ["ckeditor", "plugin", "footnotes"],
+  "homepage": "https://ckeditor.com/cke4/addon/footnotes",
+  "license": [
+    "GPL-2.0-or-later",
+    "LGPL-2.1-or-later",
+    "MPL-1.1"
+  ],
+  "support": {
+    "source": "https://github.com/ilrWebServices/CKEditorFootnotes"
+  }
+}
